@@ -13,4 +13,6 @@ Charity mobile application-Android-Kotlin
 | Member 3 | IT21186110 | Ekanayaka E.M.A. | IT21186110 |
 
 ## Used Technology:
-https://github.com/IT21186110/Give-it-Mobile-Application/issues/1#issue-1732706358
+
+![7105a193-ad96-45cc-a3be-87cdfda75ebe](https://github.com/IT21186110/Give-it-Mobile-Application/assets/99382644/dc1d57b2-e063-491d-8f0a-5adfec8197a8)
+
