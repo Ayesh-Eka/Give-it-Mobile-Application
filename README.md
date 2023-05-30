@@ -14,5 +14,4 @@ Charity mobile application-Android-Kotlin
 
 ## Used Technology:
 
-![7105a193-ad96-45cc-a3be-87cdfda75ebe](https://github.com/IT21186110/Give-it-Mobile-Application/assets/99382644/dc1d57b2-e063-491d-8f0a-5adfec8197a8)
-
+![what is kotlin banner image](https://github.com/IT21186110/Give-it-Mobile-Application/assets/99382644/ed018a49-6fdf-4616-ad3c-965d918db6d2)
